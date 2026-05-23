@@ -1,5 +1,22 @@
 # Wokki Chat SDK
 
+> [!NOTE]
+> ## 🤖 Wokki Chat SDK Notice
+>
+> This SDK is part of the now-archived Wokki Chat ecosystem.
+>
+> While the library may still function, it is no longer actively maintained and will not receive updates, fixes, or new features.
+>
+> The Wokki Chat platform it connects to is also no longer available, so API endpoints, bot connections, and related services will not work anymore.
+>
+> This repository is preserved for reference purposes only.
+>
+> ---
+>
+> ### 🙏 Special Thanks
+>
+> Special thanks to [Bjarnos](https://github.com/Bjarnos) for contributions, support, and collaboration during the development of this SDK.
+
 Python SDK to make bots for **Wokki Chat** easily and asynchronously.  
 This library lets you create bots that can send and receive messages, respond to events, and interact with the Wokki Chat platform programmatically.
 
